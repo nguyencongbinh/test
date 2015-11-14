@@ -1,3 +1,5 @@
 line1
 line2 local
 local add line 3
+remote add line 3
+

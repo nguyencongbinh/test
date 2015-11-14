@@ -1,2 +1,8 @@
 line1
+<<<<<<< HEAD
 line2 local
+local add line 3
+=======
+line2 
+remote add line 3
+>>>>>>> 8f256afa48546a1639a01d0775bed8b3490dce25
